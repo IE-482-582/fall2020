@@ -12,16 +12,16 @@
 
 1. Take a look at the `echo_scan.py` Python script (located in this directory on GitHub).  This script provides you with some code to help get you started.  At the bottom of the script there are several questions.  Modify the Python code to answer those questions.  When you are asked to create a plot, you might find the following code helpful:
 
-```
-import matplotlib.pyplot as plt
-
-x = [1, 3, 4, 7]
-y = [2, 5, 1, 6]
-
-plt.plot(x, y, '*')
-plt.axis([min(x)-1, max(x)+1, min(y)-1, max(y)+1])
-plt.show()
-```
+    ```
+    import matplotlib.pyplot as plt
+    
+    x = [1, 3, 4, 7]
+    y = [2, 5, 1, 6]
+    
+    plt.plot(x, y, '*')
+    plt.axis([min(x)-1, max(x)+1, min(y)-1, max(y)+1])
+    plt.show()
+    ```
 
 2. Modify the `wander.py` script to make your turtlebot do a better job of avoiding obstacles.  
 
