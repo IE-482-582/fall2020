@@ -50,7 +50,7 @@
     - What is the output from the last command (`ls`)?
         - `your answer goes here`
 
-	
+    
 7. Suppose we have a package named `some_package`, and that we want to run a ROS node defined by a Python script called `do_great_stuff.py`.  We'll use two (2) terminals to run our node.
     1. [*5 points*] In **Terminal 1**, we need to start ROS.
         ```
@@ -59,17 +59,17 @@
         - Now, what command do we use to start ROS?
             - `your answer goes here`
         
-	
+    
     2. [*5 points*] In **Terminal 2**, we want to run our node.
         ```
         student@vm:~$ cd ~/catkin_ws/src/some_package/scripts
         student@vm:~/catkin_ws/src/some_package/scripts$ ls
-        	do_great_stuff.py
+            do_great_stuff.py
         ```
-	 
+     
         - Now, what command do we use to run this node?
             - `your answer goes here`
-	
+    
 
 8. [*5 points*] Suppose you want to create a ROS package named `robot_controller`.  Write the Linux terminal commands to create this package.  (Don't forget to navigate to the appropriate directory.)
     ```
@@ -83,7 +83,7 @@ Write the Linux terminal commands to "make" the ROS packages.  (Don't forget to 
     your answer 
     goes here
     ```
-	
+    
 
 10. [*5 points*] Consider a text file that contains only the following 5 lines: 
     ```
@@ -127,9 +127,9 @@ Write the Linux terminal commands to "make" the ROS packages.  (Don't forget to 
     3. [*3 points*] What is the message type?
         - `your answer goes here`
 
-	4. [*3 points*] What is the line of code in which the topic is actually published?
+    4. [*3 points*] What is the line of code in which the topic is actually published?
         - `your answer goes here`
-	
+    
 
 12. [*6 points*] Consider the ROS Python node below: 
     ```
@@ -171,11 +171,11 @@ Write the Linux terminal commands to "make" the ROS packages.  (Don't forget to 
     goes here
     ```
 
-	
+    
 13. Briefly explain the following ROS concepts:
     1. [*4 points*] "Node":
         - *your answer goes here*
-					
+                    
     2. [*4 points*] "Topic": 
         - *your answer goes here*
 
@@ -219,7 +219,7 @@ Write the Linux terminal commands to "make" the ROS packages.  (Don't forget to 
         Error(s):
         - The manifest (with format version 2) must not contain the following tags: run_depend
     ```
-    - What was the problem?  How do you fix the problem?	
+    - What was the problem?  How do you fix the problem?    
         - *your answer goes here*
 
 19. Suppose we have a package named `something_new`.  Furthermore, suppose we have a message-definition file, named `my_message.msg`, that contains the following:
@@ -280,8 +280,8 @@ Write the Linux terminal commands to "make" the ROS packages.  (Don't forget to 
             isMoving = not isMoving
             changeTime = rospy.Time(now) + rospy.Duration(5)
         rate.sleep()
-	```
-	
+    ```
+    
     What is the value of `isMoving` 33 seconds after you start running this script?  
     - `your answer goes here`
 
@@ -300,16 +300,16 @@ Write the Linux terminal commands to "make" the ROS packages.  (Don't forget to 
     
     def handle_multiply(request):
         return {'c': request.a * request.b}
-    	
+        
     rospy.init_node('server')
     
     s = rospy.Service('multiply', simple_math, handle_multiply)
     
     rospy.spin()
-    ```	
+    ```    
 
-    The package uses a custom service type named `simple_math.srv`.  The code specifying the structure of this service is shown here:	
-    ```	
+    The package uses a custom service type named `simple_math.srv`.  The code specifying the structure of this service is shown here:    
+    ```    
     # File: ~/catkin_ws/src/math_service/srv/simple_math.srv
     float32 a
     float32 b
