@@ -79,7 +79,10 @@
 
 9. [*5 points*] Suppose you want to compile (also known as "make" or "build") all of the ROS packages in your catkin workspace.
 Write the Linux terminal commands to "make" the ROS packages.  (Don't forget to navigate to the appropriate directory.)
-    - *your answer goes here*
+    ```
+    your answer 
+    goes here
+    ```
 	
 
 10. [*5 points*] Consider a text file that contains only the following 5 lines: 
