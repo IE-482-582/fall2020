@@ -354,7 +354,7 @@ Write the Linux terminal commands to "make" the ROS packages.  (Don't forget to 
     2. A PDF export of your markdown.
 - You are welcome to use your class notes, to test code on your computer, or to review lecture videos.
 - You are **not** allowed to discuss the quiz with anyone else (including your classmates).
-- Neatness counts.  Before submitting, make sure that your responses are properly formatted.  Also make sure that you have addressed typographical and grammatical erros.
+- Neatness counts.  Before submitting, make sure that your responses are properly formatted.  Also make sure that you have addressed typographical and grammatical errors.
 - If there is a question that is unclear, please include in your response an explanation of how you are interpreting the question.  The instructor will not be answering questions about the quiz on Monday.
 
 ---
