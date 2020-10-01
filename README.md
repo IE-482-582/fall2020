@@ -8,6 +8,9 @@
 
 ## Class Videos (reverse chronological)
 
+- 2020-09-30 (Wednesday) - Introduced Module 05 (teleopbot)
+    - https://ub.webex.com/ub/ldr.php?RCID=1fac682888934db9943bf6cb3f3baa65
+    
 - 2020-09-25 (Friday)
     - https://ub.webex.com/recordingservice/sites/ub/recording/playback/60351b023e044a4180a03e4a5e2300d4
 
