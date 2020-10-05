@@ -8,6 +8,9 @@
 
 ## Class Videos (reverse chronological)
 
+- 2020-10-02 (Friday) - Discussed different strategies for navigating the wanderbot
+    - https://ub.webex.com/ub/ldr.php?RCID=01796beb2d8541ffb6d94d41141afa79
+
 - 2020-09-30 (Wednesday) - Introduced Module 05 (teleopbot)
     - https://ub.webex.com/ub/ldr.php?RCID=1fac682888934db9943bf6cb3f3baa65
     
