@@ -7,6 +7,8 @@
 --- 
 
 ## Class Videos (reverse chronological)
+- 2020-10-07 (Wednesday) - How to generate customized Gazebo worlds/mazes
+    - https://ub.webex.com/recordingservice/sites/ub/recording/playback/8572d6cb33d04511aeff96f42e734164
 
 - 2020-10-02 (Friday) - Discussed different strategies for navigating the wanderbot
     - https://ub.webex.com/ub/ldr.php?RCID=01796beb2d8541ffb6d94d41141afa79
