@@ -7,6 +7,12 @@
 --- 
 
 ## Class Videos (reverse chronological)
+- 2020-10-14 (Wednesday) - Completed teleopbot module.  Started followbot.
+    - https://ub.webex.com/recordingservice/sites/ub/recording/playback/5677dda1a05e4995bd14bfd46f029266 (sorry, I forgot to start the recording at the beginning of class)
+
+- 2020-10-09 (Friday) - Continued discusion on teleopbot module.
+    - https://ub.webex.com/recordingservice/sites/ub/recording/playback/23eef5593d69403b8e6171f6716dc80b
+
 - 2020-10-07 (Wednesday) - How to generate customized Gazebo worlds/mazes
     - https://ub.webex.com/recordingservice/sites/ub/recording/playback/8572d6cb33d04511aeff96f42e734164
 
