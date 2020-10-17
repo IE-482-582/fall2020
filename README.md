@@ -7,6 +7,9 @@
 --- 
 
 ## Class Videos (reverse chronological)
+- 2020-10-16 (Friday) - Discussed RGB/HSV colors for followbot.
+    - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5035c31-e53e-45aa-9de1-ac56011263c0 
+    
 - 2020-10-14 (Wednesday) - Completed teleopbot module.  Started followbot.
     - https://ub.webex.com/recordingservice/sites/ub/recording/playback/5677dda1a05e4995bd14bfd46f029266 (sorry, I forgot to start the recording at the beginning of class)
 
