@@ -7,6 +7,9 @@
 --- 
 
 ## Class Videos (reverse chronological)
+- 2020-10-21 (Wednesday) - Discussed details of how the followbot detects the line and moves to minimize "errors".
+    - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2be0c866-3c4e-49b5-a60d-ac5b0111f866 
+    
 - 2020-10-16 (Friday) - Discussed RGB/HSV colors for followbot.
     - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5035c31-e53e-45aa-9de1-ac56011263c0 
     
