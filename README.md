@@ -7,6 +7,9 @@
 --- 
 
 ## Class Videos (reverse chronological)
+- 2020-10-23 (Friday) - How to find nearest point on ground that can be viewed by camera.  How to get your robot to recover when it loses sight of the line.
+    - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68ba8f3c-9483-4dfc-9b05-ac5d01120de6
+
 - 2020-10-21 (Wednesday) - Discussed details of how the followbot detects the line and moves to minimize "errors".
     - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2be0c866-3c4e-49b5-a60d-ac5b0111f866 
     
