@@ -7,6 +7,19 @@
 --- 
 
 ## Class Videos (reverse chronological)
+
+- 2020-11-06 (Friday) - Building maps (module 07 on GitHub, and Chapter 9 in the textbook)
+    - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=131dfdf1-4766-4a53-b7d7-ac6b012174c8 
+    
+- 2020-11-04 (Wednesday) - Debugging the AirSim installation
+    - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af976936-c4f3-4a9c-8dfa-ac690123d2a2 
+    
+- 2020-10-30 (Friday) - Project proposals
+    - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4edf0bbb-9543-4b9f-82bc-ac64011a864e 
+    
+- 2020-10-28 (Wednesday) - Project ideas, building tracks in GIMP, 
+    - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fd473bc5-c664-44e4-8ad0-ac620115d363 
+
 - 2020-10-23 (Friday) - How to find nearest point on ground that can be viewed by camera.  How to get your robot to recover when it loses sight of the line.
     - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68ba8f3c-9483-4dfc-9b05-ac5d01120de6
 
