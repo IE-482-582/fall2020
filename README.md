@@ -8,6 +8,21 @@
 
 ## Class Videos (reverse chronological)
 
+- 2020-11-23 (Monday) - Installing chessbot (Chapter 11 of textbook)
+    - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c19f0767-faba-4a61-b012-ac7c0131fbba 
+    
+- 2020-11-20 (Friday) - Project status updates
+    - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36fb8b56-1fdf-4c0f-a36a-ac79012fcfd5 
+    
+- 2020-11-18 (Wednesday) - Followbot homework discussion
+    - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a5a5258-67eb-461c-b2bf-ac77012bed9c 
+    
+- 2020-11-13 (Friday) - Followbot homework discussion
+    - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5424f97b-a149-4387-8a13-ac72012fabc3 
+    
+- 2020-11-11 (Wednesday) - Navigating maps (module 08 on GitHub, Chapter 10 in textbook)
+    - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6951cd9e-8dcb-4523-bbeb-ac7001206acd 
+    
 - 2020-11-06 (Friday) - Building maps (module 07 on GitHub, and Chapter 9 in the textbook)
     - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=131dfdf1-4766-4a53-b7d7-ac6b012174c8 
     
