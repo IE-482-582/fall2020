@@ -6,7 +6,17 @@
 
 --- 
 
+## ROS History Video Series
+- Check out the 5-part documentary here.  Very interesting!
+    - https://www.redhat.com/en/open-source-stories/robots/breaking-the-wheel 
+    
+    
 ## Class Videos (reverse chronological)
+- 2020-12-04 (Friday) - Manipulating the R2's hand/fingers
+    - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=943ec1ef-d34f-40ba-9c37-ac870123e6c2
+    
+- 2020-12-02 (Wednesday) - Discussion on course project, followed by manipulation of the R2's arms
+     - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e54a26d-13ae-4bc0-8dc4-ac85012d79ce
 
 - 2020-11-23 (Monday) - Installing chessbot (Chapter 11 of textbook)
     - https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c19f0767-faba-4a61-b012-ac7c0131fbba 
