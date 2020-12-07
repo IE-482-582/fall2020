@@ -38,15 +38,15 @@ These instructions assume the use of ROS Indigo on Ubuntu 14.04.  We'll need to 
 - Install `roslibjs`:
     ```
     cd ~/Downloads
-	rm -rf IE-482-582
+	rm -rf fall2020
     git clone https://github.com/IE-482-582/fall2020.git
-    cd IE-482-582/09_rosbridge
+    cd fall2020/09_rosbridge
     cp -a roslib/. ~/cesium/roslib
     ```
     
 - Copy Web page into Cesium space
     ```
-    cd ~/Downloads/IE-482-582/09_rosbridge
+    cd ~/Downloads/fall2020/09_rosbridge
     cp -a webbot/. ~/cesium/webbot
     ```
         
