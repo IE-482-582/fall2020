@@ -22,7 +22,7 @@ These instructions assume the use of ROS Indigo on Ubuntu 14.04.  We'll need to 
     ```
     mkdir ~/cesium
     cd ~/cesium
-    wget https://github.com/AnalyticalGraphicsInc/cesium/releases/download/1.69/Cesium-1.74.zip
+    wget https://github.com/CesiumGS/cesium/releases/download/1.74/Cesium-1.74.zip
     unzip Cesium-1.74.zip
     rm Cesium-1.74.zip
     ```
